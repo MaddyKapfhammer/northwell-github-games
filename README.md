@@ -9,3 +9,4 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 **Author:** Madelyn Kapfhammer
 **Date:** 11/5/2024
 **Project:** Project 3: GitHub Games
+**Time:** 9:30am EST - 1:30pm EST
